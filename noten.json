@@ -1,0 +1,22 @@
+[
+  {
+    "fach": "mathematik",
+    "profil": "studium",
+    "note": 78.0
+  },
+  {
+    "fach": "mathematik",
+    "profil": "studium",
+    "note": 85.0
+  },
+  {
+    "fach": "l",
+    "profil": "schule",
+    "note": 4.0
+  },
+  {
+    "fach": "d",
+    "profil": "schule",
+    "note": 3.5
+  }
+]
